@@ -1,0 +1,26 @@
+{
+    "name": "dcs6010L-fix",
+    "description": "",
+    "version": "0.0.1",
+    "main": "./dcs6010L-fix.js",
+    "author": {
+        "name": "huijon",
+        "email": "huijon02@gmail.com"
+    },
+    "keywords": [],
+    "licenses": {
+        "type": "none"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/YOUR_LOGIN/dcs6010L-fix.git"
+    },
+    "bugs": {
+        "url": "http://github.com/YOUR_LOGIN/dcs6010L-fix/issues"
+    },
+    "dependencies": {
+        "request": "*",
+        "underscore": "*",
+        "async": "*"
+    }
+}
